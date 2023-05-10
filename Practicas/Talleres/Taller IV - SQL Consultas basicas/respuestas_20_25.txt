@@ -1,0 +1,89 @@
+20)
+SELECT d.codigo, d.nombre
+	, COUNT(DISTINCT m.numero) AS "cant_mat"
+	, COUNT(*) AS "cant_notas"
+FROM departamentos d INNER JOIN materias m USING (codigo)
+INNER JOIN notas n USING (codigo, numero)
+GROUP BY d.codigo, d.nombre
+ORDER BY COUNT(DISTINCT m.numero) DESC
+
+21)
+SELECT c.nombre, COUNT(i.padron)
+FROM carreras c LEFT OUTER JOIN inscripto_en i 
+	ON (c.codigo = i.codigo)
+GROUP BY c.codigo, c.nombre
+
+22)
+SELECT a.padron, a.nombre, AVG(n.nota) AS "promedio"
+	, MAX(n.nota) AS "mejor_nota"
+FROM notas n INNER JOIN alumnos a ON (n.padron = a.padron)
+GROUP BY a.padron, a.nombre
+HAVING COUNT(*) >= 3
+
+23)
+SELECT n.codigo, n.numero, COUNT(*)
+FROM notas n
+GROUP BY n.codigo, n.numero
+HAVING COUNT(*) >= ALL(
+	SELECT COUNT(*)
+	FROM notas n
+	GROUP BY n.codigo, n.numero
+)
+
+WITH cantidades AS (
+	SELECT n.codigo AS "cod", n.numero AS "num", COUNT(*) AS "cant"
+	FROM notas n
+	GROUP BY n.codigo, n.numero
+) 
+SELECT cod, num, cant
+FROM cantidades c
+WHERE c.cant = ( SELECT MAX(cant) FROM cantidades)
+
+24)
+
+Los alumnos que para toda materia tengan nota
+Los alumnos que no exista materia en la que no tengan nota
+Los alumnos que no exista materia en la que no exista una nota de ese alumno en esa materia
+
+SELECT padron FROM alumnos a
+WHERE NOT EXISTS (
+	SELECT * FROM materias m
+	WHERE NOT EXISTS (
+		SELECT * FROM notas n
+		WHERE n.padron = a.padron AND n.codigo = m.codigo
+		AND n.numero = m.numero
+	)
+)
+
+SELECT padron FROM alumnos a
+WHERE NOT EXISTS (
+	(SELECT m.codigo, m.numero FROM materias m) -- Todas las materias
+	EXCEPT --- MENOS
+	(SELECT n.codigo, n.numero FROM notas n 
+	 	WHERE n.padron = a.padron) -- Las materias en las que tiene nota el alumno a
+)
+
+
+SELECT n.padron 
+FROM notas n
+GROUP BY n.padron
+HAVING COUNT(DISTINCT to_char(codigo,'fm00') 
+			|| '.' || to_char(numero,'fm00') )
+			= (SELECT COUNT(*) FROM materias)
+      
+SELECT n.padron 
+FROM notas n
+GROUP BY n.padron
+HAVING COUNT(DISTINCT (codigo, numero) )
+			= (SELECT COUNT(*) FROM materias)
+      
+      
+25)
+SELECT AVG(cant) 
+FROM
+	(SELECT COUNT(*) AS "cant"
+		FROM notas n
+		GROUP BY n.padron) AS tabla
+    
+SELECT CAST (COUNT(*) AS DECIMAL) / COUNT(DISTINCT n.padron)
+FROM notas n

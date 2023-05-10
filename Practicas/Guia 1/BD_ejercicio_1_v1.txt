@@ -1,0 +1,1 @@
+A esta solución le falta considerar que puede haber más de un partido por fecha.
