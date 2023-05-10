@@ -2,3 +2,5 @@
 /Libros
 /Otros
 /Teoricas
+*.pdf
+*.txt
