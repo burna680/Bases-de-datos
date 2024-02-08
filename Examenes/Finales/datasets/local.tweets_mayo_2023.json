@@ -1,0 +1,378 @@
+[{
+  "_id": {
+    "$oid": "65c38a94b20d9f92b0855c96"
+  },
+  "created_at": "Mon May 29 20:19:24 +0000 2023",
+  "id": {
+    "$numberLong": "1050118621198921728"
+  },
+  "id_str": "1050118621198921728",
+  "text": "Tras las #lluvias intensas de los últimos días en #Argentina, se observan cambios en la humedad del suelo y la vegetación del sur del Litoral y norte de Bs As. En colores oscuros también se evidencia el agua acumulada en lagunas y ríos.",
+  "user": {
+    "id": 6253282,
+    "id_str": "6253282",
+    "name": "SMN Argentina",
+    "screen_name": "SMN_Argentina",
+    "followers_count": 173280,
+    "friends_count": 694
+  },
+  "entities": {
+    "hashtags": [
+      "#lluvias",
+      "#Argentina"
+    ],
+    "user_mentions": [],
+    "media": []
+  },
+  "place": {
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  "source": "Twitter Web Client"
+},
+{
+  "_id": {
+    "$oid": "65c38a94b20d9f92b0855c97"
+  },
+  "created_at": "Tue Jun 20 14:35:48 +0000 2023",
+  "id": {
+    "$numberLong": "1051195521198821760"
+  },
+  "id_str": "1051195521198821728",
+  "text": "Hoy en #Santiago de #Chile se vivió una jornada de intensa actividad cultural. La comunidad se reunió en las calles para disfrutar de música en vivo, arte callejero y gastronomía local.",
+  "user": {
+    "id": 7458921,
+    "id_str": "7458921",
+    "name": "Santiago Informa",
+    "screen_name": "Santiago_Informa",
+    "followers_count": 219830,
+    "friends_count": 982
+  },
+  "entities": {
+    "hashtags": [
+      "#Santiago",
+      "#Chile"
+    ],
+    "user_mentions": [],
+    "media": []
+  },
+  "place": {
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  "source": "Twitter Web Client"
+},
+{
+  "_id": {
+    "$oid": "65c38a94b20d9f92b0855c98"
+  },
+  "created_at": "Wed Jul 05 08:40:12 +0000 2023",
+  "id": {
+    "$numberLong": "1052187602198841216"
+  },
+  "id_str": "1052187602198841234",
+  "text": "¡Qué gran evento en #Brasil! La feria internacional de tecnología atrajo a miles de visitantes de todo el mundo. Sin duda, un lugar para conocer las últimas innovaciones en el campo.",
+  "user": {
+    "id": 8592015,
+    "id_str": "8592015",
+    "name": "BrazilTech",
+    "screen_name": "Brazil_Tech",
+    "followers_count": 302450,
+    "friends_count": 1205
+  },
+  "entities": {
+    "hashtags": [
+      "#Brasil"
+    ],
+    "user_mentions": [],
+    "media": []
+  },
+  "place": {
+    "country": "Brasil",
+    "country_code": "BR"
+  },
+  "source": "Twitter Web Client"
+},
+{
+  "_id": {
+    "$oid": "65c38a94b20d9f92b0855c99"
+  },
+  "created_at": "Tue Aug 15 18:47:36 +0000 2023",
+  "id": {
+    "$numberLong": "1053818621198921728"
+  },
+  "id_str": "1053818621198921729",
+  "text": "¡Qué hermosa tarde en #Mendoza! Los viñedos lucen espectaculares bajo el sol de la tarde. Un destino imperdible para los amantes del buen vino y la naturaleza.",
+  "user": {
+    "id": 5298312,
+    "id_str": "5298312",
+    "name": "Mendoza Turismo",
+    "screen_name": "Mendoza_Turismo",
+    "followers_count": 154280,
+    "friends_count": 480
+  },
+  "entities": {
+    "hashtags": [
+      "#Mendoza",
+      "#Argentina"
+    ],
+    "user_mentions": [],
+    "media": []
+  },
+  "place": {
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  "source": "Twitter Web Client"
+},
+{
+  "_id": {
+    "$oid": "65c38a94b20d9f92b0855c9a"
+  },
+  "created_at": "Wed Sep 06 11:20:15 +0000 2023",
+  "id": {
+    "$numberLong": "1054971621198821760"
+  },
+  "id_str": "1054971621198821729",
+  "text": "Los paisajes de #Valparaíso son simplemente impresionantes. Desde los cerros hasta el mar, cada rincón de esta ciudad tiene algo único que ofrecer.",
+  "user": {
+    "id": 6384291,
+    "id_str": "6384291",
+    "name": "Valparaíso Travel",
+    "screen_name": "Valpo_Travel",
+    "followers_count": 287530,
+    "friends_count": 810
+  },
+  "entities": {
+    "hashtags": [
+      "#Valparaíso"
+    ],
+    "user_mentions": [],
+    "media": []
+  },
+  "place": {
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  "source": "Twitter Web Client"
+},
+{
+  "_id": {
+    "$oid": "65c38a94b20d9f92b0855c9b"
+  },
+  "created_at": "Thu Oct 19 14:02:58 +0000 2023",
+  "id": {
+    "$numberLong": "1056128621198841216"
+  },
+  "id_str": "1056128621198841234",
+  "text": "La ciudad de #Río de Janeiro siempre tiene un encanto especial. Desde sus playas hasta su vida nocturna, hay algo para todos los gustos y estilos.",
+  "user": {
+    "id": 7258912,
+    "id_str": "7258912",
+    "name": "Rio Turismo",
+    "screen_name": "Rio_Turismo",
+    "followers_count": 401780,
+    "friends_count": 1560
+  },
+  "entities": {
+    "hashtags": [
+      "#Río"
+    ],
+    "user_mentions": [],
+    "media": []
+  },
+  "place": {
+    "country": "Brasil",
+    "country_code": "BR"
+  },
+  "source": "Twitter Web Client"
+},
+{
+  "_id": {
+    "$oid": "65c38a94b20d9f92b0855c9c"
+  },
+  "created_at": "Sat Nov 25 09:15:28 +0000 2023",
+  "id": {
+    "$numberLong": "1057568621198921728"
+  },
+  "id_str": "1057568621198921729",
+  "text": "La Patagonia argentina es un paraíso para los amantes de la aventura. Desde trekking en glaciares hasta avistamiento de ballenas, hay actividades para todos los gustos.",
+  "user": {
+    "id": 4198312,
+    "id_str": "4198312",
+    "name": "Patagonia Aventura",
+    "screen_name": "Patagonia_Avent",
+    "followers_count": 224150,
+    "friends_count": 320
+  },
+  "entities": {
+    "hashtags": [
+      "#Patagonia"
+    ],
+    "user_mentions": [],
+    "media": []
+  },
+  "place": {
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  "source": "Twitter Web Client"
+},
+{
+  "_id": {
+    "$oid": "65c38a94b20d9f92b0855c9d"
+  },
+  "created_at": "Sun Dec 10 15:30:12 +0000 2023",
+  "id": {
+    "$numberLong": "1058671621198821760"
+  },
+  "id_str": "1058671621198821729",
+  "text": "Las montañas de #Torres del Paine son un espectáculo natural impresionante. Cada año, miles de turistas vienen a admirar su belleza y hacer senderismo en sus rutas.",
+  "user": {
+    "id": 6204291,
+    "id_str": "6204291",
+    "name": "Torres del Paine",
+    "screen_name": "TorresPaine",
+    "followers_count": 168350,
+    "friends_count": 480
+  },
+  "entities": {
+    "hashtags": [
+      "#TorresDelPaine"
+    ],
+    "user_mentions": [],
+    "media": []
+  },
+  "place": {
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  "source": "Twitter Web Client"
+},
+{
+  "_id": {
+    "$oid": "65c38a94b20d9f92b0855c9e"
+  },
+  "created_at": "Mon Jan 15 19:40:45 +0000 2023",
+  "id": {
+    "$numberLong": "1059818621198841216"
+  },
+  "id_str": "1059818621198841234",
+  "text": "El carnaval de #Río de Janeiro es una celebración única en el mundo. Con desfiles coloridos, música en vivo y bailes callejeros, es una experiencia inolvidable para todos los que lo visitan.",
+  "user": {
+    "id": 7258912,
+    "id_str": "7258912",
+    "name": "Rio Turismo",
+    "screen_name": "Rio_Turismo",
+    "followers_count": 401780,
+    "friends_count": 1560
+  },
+  "entities": {
+    "hashtags": [
+      "#Río"
+    ],
+    "user_mentions": [],
+    "media": []
+  },
+  "place": {
+    "country": "Brasil",
+    "country_code": "BR"
+  },
+  "source": "Twitter Web Client"
+},
+{
+  "_id": {
+    "$oid": "65c38a94b20d9f92b0855c9f"
+  },
+  "created_at": "Thu Feb 23 11:45:20 +0000 2023",
+  "id": {
+    "$numberLong": "1061058621198921728"
+  },
+  "id_str": "1061058621198921729",
+  "text": "¡El tango en #BuenosAires es una experiencia única! Ven a disfrutar de la pasión y el ritmo de esta danza en los bares y milongas de la ciudad.",
+  "user": {
+    "id": 3178312,
+    "id_str": "3178312",
+    "name": "Tango Buenos Aires",
+    "screen_name": "Tango_BA",
+    "followers_count": 158420,
+    "friends_count": 240
+  },
+  "entities": {
+    "hashtags": [
+      "#BuenosAires",
+      "#Tango"
+    ],
+    "user_mentions": [],
+    "media": []
+  },
+  "place": {
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  "source": "Twitter Web Client"
+},
+{
+  "_id": {
+    "$oid": "65c38a94b20d9f92b0855ca0"
+  },
+  "created_at": "Fri Mar 17 14:20:08 +0000 2023",
+  "id": {
+    "$numberLong": "1062171621198821760"
+  },
+  "id_str": "1062171621198821729",
+  "text": "Las playas de #Copacabana en #Río de Janeiro son famosas en todo el mundo. Ven a disfrutar del sol, el mar y la buena compañía en este paraíso tropical.",
+  "user": {
+    "id": 6254291,
+    "id_str": "6254291",
+    "name": "Copacabana Beach",
+    "screen_name": "Copacabana_Beach",
+    "followers_count": 532780,
+    "friends_count": 780
+  },
+  "entities": {
+    "hashtags": [
+      "#Copacabana",
+      "#Río"
+    ],
+    "user_mentions": [],
+    "media": []
+  },
+  "place": {
+    "country": "Brasil",
+    "country_code": "BR"
+  },
+  "source": "Twitter Web Client"
+},
+{
+  "_id": {
+    "$oid": "65c38a94b20d9f92b0855ca1"
+  },
+  "created_at": "Sat Apr 29 09:30:45 +0000 2023",
+  "id": {
+    "$numberLong": "1063328621198841216"
+  },
+  "id_str": "1063328621198841234",
+  "text": "Explora los secretos de la naturaleza en la selva amazónica de #Brasil. Con guías expertos, podrás descubrir la diversidad de flora y fauna de este increíble ecosistema.",
+  "user": {
+    "id": 7258912,
+    "id_str": "7258912",
+    "name": "Amazon Tours",
+    "screen_name": "Amazon_Tours",
+    "followers_count": 212880,
+    "friends_count": 980
+  },
+  "entities": {
+    "hashtags": [
+      "#Brasil",
+      "#Amazon"
+    ],
+    "user_mentions": [],
+    "media": []
+  },
+  "place": {
+    "country": "Brasil",
+    "country_code": "BR"
+  },
+  "source": "Twitter Web Client"
+}]

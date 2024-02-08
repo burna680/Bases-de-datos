@@ -1,0 +1,171 @@
+[{
+  "_id": {
+    "$oid": "65b154a4c5f8d45bea3cffef"
+  },
+  "cod_dpto": "CSE",
+  "nombre_dpto": "Ingeniería en Ciencias de la Computación",
+  "subcod_materia": "101",
+  "nombre_materia": "Introducción a la Programación",
+  "plantel": [
+    {
+      "legajo": 177815,
+      "apell_nombre": "AUZQUI, BELEN",
+      "cargo": "PROFESOR ADJUNTO"
+    },
+    {
+      "legajo": 201712,
+      "apell_nombre": "ROMAN, HERNAN",
+      "cargo": "JEFE DE TRABAJOS PRÁCTICOS"
+    },
+    {
+      "legajo": 181218,
+      "apell_nombre": "BERNA, RAUL",
+      "cargo": "AYUDANTE PRIMERO"
+    },
+    {
+      "legajo": 192990,
+      "apell_nombre": "RAMIREZ, GONZALO",
+      "cargo": "AYUDANTE PRIMERO"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65b154a4c5f8d45bea3cfff0"
+  },
+  "cod_dpto": "EE",
+  "nombre_dpto": "Ingeniería Eléctrica",
+  "subcod_materia": "201",
+  "nombre_materia": "Circuitos Digitales",
+  "plantel": [
+    {
+      "legajo": 123456,
+      "apell_nombre": "GOMEZ, JUAN",
+      "cargo": "PROFESOR TITULAR"
+    },
+    {
+      "legajo": 789012,
+      "apell_nombre": "PEREZ, MARIA",
+      "cargo": "AYUDANTE DE CÁTEDRA"
+    },
+    {
+      "legajo": 345678,
+      "apell_nombre": "LOPEZ, CARLOS",
+      "cargo": "JEFE DE TRABAJOS PRÁCTICOS"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65b154a4c5f8d45bea3cfff1"
+  },
+  "cod_dpto": "ME",
+  "nombre_dpto": "Ingeniería Mecánica",
+  "subcod_materia": "301",
+  "nombre_materia": "Termodinámica",
+  "plantel": [
+    {
+      "legajo": 987654,
+      "apell_nombre": "SANCHEZ, ANA",
+      "cargo": "PROFESOR ASOCIADO"
+    },
+    {
+      "legajo": 654321,
+      "apell_nombre": "GUTIERREZ, LUIS",
+      "cargo": "AYUDANTE DE CÁTEDRA"
+    },
+    {
+      "legajo": 234567,
+      "apell_nombre": "MARTINEZ, ELENA",
+      "cargo": "AYUDANTE SEGUNDO"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65b154a4c5f8d45bea3cfff2"
+  },
+  "cod_dpto": "BIO",
+  "nombre_dpto": "Biología",
+  "subcod_materia": "401",
+  "nombre_materia": "Genética",
+  "plantel": [
+    {
+      "legajo": 111222,
+      "apell_nombre": "RODRIGUEZ, JORGE",
+      "cargo": "PROFESOR TITULAR"
+    },
+    {
+      "legajo": 333444,
+      "apell_nombre": "SILVA, PATRICIA",
+      "cargo": "JEFE DE TRABAJOS PRÁCTICOS"
+    },
+    {
+      "legajo": 555666,
+      "apell_nombre": "ROJAS, MARTA",
+      "cargo": "AYUDANTE SEGUNDO"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65b161e2a6c5da11d9b1326e"
+  },
+  "cod_dpto": "QUIM",
+  "nombre_dpto": "Química",
+  "subcod_materia": "501",
+  "nombre_materia": "Química Orgánica",
+  "plantel": [
+    {
+      "legajo": 777888,
+      "apell_nombre": "FERNANDEZ, CAROLINA",
+      "cargo": "PROFESOR ASOCIADO"
+    },
+    {
+      "legajo": 999000,
+      "apell_nombre": "LORENZO, JAVIER",
+      "cargo": "AYUDANTE DE CÁTEDRA"
+    },
+    {
+      "legajo": 123789,
+      "apell_nombre": "ROBLEDO, ESTEBAN",
+      "cargo": "JEFE DE TRABAJOS PRÁCTICOS"
+    },
+    {
+      "legajo": 555666,
+      "apell_nombre": "ROJAS, MARTA",
+      "cargo": "AYUDANTE SEGUNDO"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65b16bdfa6c5da11d9b1326f"
+  },
+  "cod_dpto": "QUIM",
+  "nombre_dpto": "Química",
+  "subcod_materia": "502",
+  "nombre_materia": "Química Orgánica II",
+  "plantel": [
+    {
+      "legajo": 777888,
+      "apell_nombre": "FERNANDEZ, CAROLINA",
+      "cargo": "PROFESOR ASOCIADO"
+    },
+    {
+      "legajo": 999000,
+      "apell_nombre": "LORENZO, JAVIER",
+      "cargo": "AYUDANTE DE CÁTEDRA"
+    },
+    {
+      "legajo": 123789,
+      "apell_nombre": "ROBLEDO, ESTEBAN",
+      "cargo": "JEFE DE TRABAJOS PRÁCTICOS"
+    },
+    {
+      "legajo": 555666,
+      "apell_nombre": "ROJAS, MARTA",
+      "cargo": "AYUDANTE SEGUNDO"
+    }
+  ]
+}]

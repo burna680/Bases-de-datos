@@ -1,0 +1,640 @@
+[{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a48"
+  },
+  "nombre_pelicula": "Interstellar",
+  "genero_principal": "Ciencia Ficción",
+  "puntaje_IMDB": 8.7,
+  "actores": [
+    "Matthew McConaughey",
+    "Jessica Chastain",
+    "Anne Hathaway",
+    "Mackenzie Foy",
+    "Timothée Chalamet",
+    "Matt Damon",
+    "Michael Caine"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a49"
+  },
+  "nombre_pelicula": "The Dark Knight",
+  "genero_principal": "Acción",
+  "puntaje_IMDB": 9,
+  "actores": [
+    "Christian Bale",
+    "Heath Ledger",
+    "Aaron Eckhart",
+    "Michael Caine",
+    "Maggie Gyllenhaal",
+    "Gary Oldman"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a4a"
+  },
+  "nombre_pelicula": "La La Land",
+  "genero_principal": "Musical",
+  "puntaje_IMDB": 8,
+  "actores": [
+    "Ryan Gosling",
+    "Emma Stone",
+    "John Legend",
+    "Rosemarie DeWitt",
+    "J.K. Simmons"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a4b"
+  },
+  "nombre_pelicula": "Inception",
+  "genero_principal": "Ciencia Ficción",
+  "puntaje_IMDB": 8.8,
+  "actores": [
+    "Leonardo DiCaprio",
+    "Joseph Gordon-Levitt",
+    "Ellen Page",
+    "Tom Hardy",
+    "Ken Watanabe",
+    "Cillian Murphy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a4c"
+  },
+  "nombre_pelicula": "The Shawshank Redemption",
+  "genero_principal": "Drama",
+  "puntaje_IMDB": 9.3,
+  "actores": [
+    "Tim Robbins",
+    "Morgan Freeman",
+    "Bob Gunton",
+    "William Sadler",
+    "Clancy Brown",
+    "Gil Bellows"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a4d"
+  },
+  "nombre_pelicula": "Forrest Gump",
+  "genero_principal": "Drama",
+  "puntaje_IMDB": 8.8,
+  "actores": [
+    "Tom Hanks",
+    "Robin Wright",
+    "Gary Sinise",
+    "Sally Field",
+    "Haley Joel Osment",
+    "Mykelti Williamson"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a4e"
+  },
+  "nombre_pelicula": "Pulp Fiction",
+  "genero_principal": "Crimen",
+  "puntaje_IMDB": 8.9,
+  "actores": [
+    "John Travolta",
+    "Uma Thurman",
+    "Samuel L. Jackson",
+    "Bruce Willis",
+    "Ving Rhames",
+    "Tim Roth"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a4f"
+  },
+  "nombre_pelicula": "The Godfather",
+  "genero_principal": "Crimen",
+  "puntaje_IMDB": 9.2,
+  "actores": [
+    "Marlon Brando",
+    "Al Pacino",
+    "James Caan",
+    "Richard S. Castellano",
+    "Robert Duvall",
+    "Diane Keaton"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a50"
+  },
+  "nombre_pelicula": "Gladiator",
+  "genero_principal": "Acción",
+  "puntaje_IMDB": 8.5,
+  "actores": [
+    "Russell Crowe",
+    "Joaquin Phoenix",
+    "Connie Nielsen",
+    "Oliver Reed",
+    "Richard Harris",
+    "Derek Jacobi"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a51"
+  },
+  "nombre_pelicula": "The Matrix",
+  "genero_principal": "Acción",
+  "puntaje_IMDB": 8.7,
+  "actores": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Moss",
+    "Hugo Weaving",
+    "Joe Pantoliano",
+    "Gloria Foster"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a52"
+  },
+  "nombre_pelicula": "Fight Club",
+  "genero_principal": "Drama",
+  "puntaje_IMDB": 8.8,
+  "actores": [
+    "Brad Pitt",
+    "Edward Norton",
+    "Meat Loaf",
+    "Jared Leto",
+    "Helena Bonham Carter",
+    "Zach Grenier"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a53"
+  },
+  "nombre_pelicula": "The Lord of the Rings: The Fellowship of the Ring",
+  "genero_principal": "Fantasía",
+  "puntaje_IMDB": 8.8,
+  "actores": [
+    "Elijah Wood",
+    "Ian McKellen",
+    "Viggo Mortensen",
+    "Sean Astin",
+    "Liv Tyler",
+    "Orlando Bloom"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a54"
+  },
+  "nombre_pelicula": "The Silence of the Lambs",
+  "genero_principal": "Crimen",
+  "puntaje_IMDB": 8.6,
+  "actores": [
+    "Jodie Foster",
+    "Anthony Hopkins",
+    "Scott Glenn",
+    "Ted Levine",
+    "Anthony Heald",
+    "Brooke Smith"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a55"
+  },
+  "nombre_pelicula": "The Departed",
+  "genero_principal": "Crimen",
+  "puntaje_IMDB": 8.5,
+  "actores": [
+    "Leonardo DiCaprio",
+    "Matt Damon",
+    "Jack Nicholson",
+    "Mark Wahlberg",
+    "Martin Sheen",
+    "Vera Farmiga"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a56"
+  },
+  "nombre_pelicula": "Inglourious Basterds",
+  "genero_principal": "Bélico",
+  "puntaje_IMDB": 8.3,
+  "actores": [
+    "Brad Pitt",
+    "Christoph Waltz",
+    "Michael Fassbender",
+    "Eli Roth",
+    "Diane Kruger",
+    "Daniel Brühl"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a57"
+  },
+  "nombre_pelicula": "Goodfellas",
+  "genero_principal": "Crimen",
+  "puntaje_IMDB": 8.7,
+  "actores": [
+    "Robert De Niro",
+    "Ray Liotta",
+    "Joe Pesci",
+    "Lorraine Bracco",
+    "Paul Sorvino",
+    "Frank Sivero"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a58"
+  },
+  "nombre_pelicula": "The Green Mile",
+  "genero_principal": "Drama",
+  "puntaje_IMDB": 8.6,
+  "actores": [
+    "Tom Hanks",
+    "Michael Clarke Duncan",
+    "David Morse",
+    "Bonnie Hunt",
+    "James Cromwell",
+    "Michael Jeter"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a59"
+  },
+  "nombre_pelicula": "Schindler's List",
+  "genero_principal": "Drama",
+  "puntaje_IMDB": 8.9,
+  "actores": [
+    "Liam Neeson",
+    "Ben Kingsley",
+    "Ralph Fiennes",
+    "Caroline Goodall",
+    "Jonathan Sagall",
+    "Embeth Davidtz"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a5a"
+  },
+  "nombre_pelicula": "The Usual Suspects",
+  "genero_principal": "Crimen",
+  "puntaje_IMDB": 8.5,
+  "actores": [
+    "Stephen Baldwin",
+    "Gabriel Byrne",
+    "Benicio Del Toro",
+    "Kevin Pollak",
+    "Kevin Spacey",
+    "Chazz Palminteri"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a5b"
+  },
+  "nombre_pelicula": "Se7en",
+  "genero_principal": "Crimen",
+  "puntaje_IMDB": 8.6,
+  "actores": [
+    "Brad Pitt",
+    "Morgan Freeman",
+    "Gwyneth Paltrow",
+    "R. Lee Ermey",
+    "Andrew Kevin Walker",
+    "Daniel Zacapa"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a5c"
+  },
+  "nombre_pelicula": "The Big Short",
+  "genero_principal": "Biografía",
+  "puntaje_IMDB": 7.8,
+  "actores": [
+    "Christian Bale",
+    "Steve Carell",
+    "Ryan Gosling",
+    "Brad Pitt",
+    "Marisa Tomei",
+    "Melissa Leo"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a5d"
+  },
+  "nombre_pelicula": "American Hustle",
+  "genero_principal": "Crimen",
+  "puntaje_IMDB": 7.2,
+  "actores": [
+    "Christian Bale",
+    "Bradley Cooper",
+    "Amy Adams",
+    "Jeremy Renner",
+    "Jennifer Lawrence",
+    "Louis C.K."
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a5e"
+  },
+  "nombre_pelicula": "No Country for Old Men",
+  "genero_principal": "Crimen",
+  "puntaje_IMDB": 8.1,
+  "actores": [
+    "Tommy Lee Jones",
+    "Javier Bardem",
+    "Josh Brolin",
+    "Woody Harrelson",
+    "Kelly Macdonald",
+    "Garret Dillahunt"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a5f"
+  },
+  "nombre_pelicula": "The Revenant",
+  "genero_principal": "Aventura",
+  "puntaje_IMDB": 7.6,
+  "actores": [
+    "Leonardo DiCaprio",
+    "Tom Hardy",
+    "Domhnall Gleeson",
+    "Will Poulter",
+    "Forrest Goodluck",
+    "Paul Anderson"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a60"
+  },
+  "nombre_pelicula": "The Nice Guys",
+  "genero_principal": "Acción",
+  "puntaje_IMDB": 7.4,
+  "actores": [
+    "Russell Crowe",
+    "Ryan Gosling",
+    "Angourie Rice",
+    "Matt Bomer",
+    "Margaret Qualley",
+    "Keith David"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a61"
+  },
+  "nombre_pelicula": "Blade Runner 2049",
+  "genero_principal": "Ciencia Ficción",
+  "puntaje_IMDB": 8,
+  "actores": [
+    "Ryan Gosling",
+    "Harrison Ford",
+    "Ana de Armas",
+    "Sylvia Hoeks",
+    "Robin Wright",
+    "Jared Leto"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a62"
+  },
+  "nombre_pelicula": "Dunkirk",
+  "genero_principal": "Bélico",
+  "puntaje_IMDB": 7.8,
+  "actores": [
+    "Fionn Whitehead",
+    "Tom Glynn-Carney",
+    "Jack Lowden",
+    "Harry Styles",
+    "Aneurin Barnard",
+    "James D'Arcy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a63"
+  },
+  "nombre_pelicula": "Manchester by the Sea",
+  "genero_principal": "Drama",
+  "puntaje_IMDB": 7.8,
+  "actores": [
+    "Casey Affleck",
+    "Michelle Williams",
+    "Kyle Chandler",
+    "Lucas Hedges",
+    "Gretchen Mol",
+    "Matthew Broderick"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a64"
+  },
+  "nombre_pelicula": "The Florida Project",
+  "genero_principal": "Drama",
+  "puntaje_IMDB": 7.6,
+  "actores": [
+    "Willem Dafoe",
+    "Brooklynn Prince",
+    "Bria Vinaite",
+    "Valeria Cotto",
+    "Christopher Rivera",
+    "Caleb Landry Jones"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a65"
+  },
+  "nombre_pelicula": "Moonlight",
+  "genero_principal": "Drama",
+  "puntaje_IMDB": 7.4,
+  "actores": [
+    "Trevante Rhodes",
+    "Ashton Sanders",
+    "Alex R. Hibbert",
+    "Naomie Harris",
+    "Mahershala Ali",
+    "Janelle Monáe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a66"
+  },
+  "nombre_pelicula": "Call Me by Your Name",
+  "genero_principal": "Drama",
+  "puntaje_IMDB": 7.9,
+  "actores": [
+    "Armie Hammer",
+    "Timothée Chalamet",
+    "Michael Stuhlbarg",
+    "Amira Casar",
+    "Esther Garrel",
+    "Victoire Du Bois"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a67"
+  },
+  "nombre_pelicula": "The Lobster",
+  "genero_principal": "Comedia",
+  "puntaje_IMDB": 7.1,
+  "actores": [
+    "Colin Farrell",
+    "Rachel Weisz",
+    "Jessica Barden",
+    "Olivia Colman",
+    "Ashley Jensen",
+    "John C. Reilly"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a68"
+  },
+  "nombre_pelicula": "Three Billboards Outside Ebbing, Missouri",
+  "genero_principal": "Crimen",
+  "puntaje_IMDB": 8.1,
+  "actores": [
+    "Frances McDormand",
+    "Woody Harrelson",
+    "Sam Rockwell",
+    "Abbie Cornish",
+    "Lucas Hedges",
+    "Željko Ivanek"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a69"
+  },
+  "nombre_pelicula": "Birdman or (The Unexpected Virtue of Ignorance)",
+  "genero_principal": "Comedia",
+  "puntaje_IMDB": 7.7,
+  "actores": [
+    "Michael Keaton",
+    "Zach Galifianakis",
+    "Edward Norton",
+    "Andrea Riseborough",
+    "Amy Ryan",
+    "Emma Stone"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a6a"
+  },
+  "nombre_pelicula": "Her",
+  "genero_principal": "Ciencia Ficción",
+  "puntaje_IMDB": 8,
+  "actores": [
+    "Joaquin Phoenix",
+    "Scarlett Johansson",
+    "Rooney Mara",
+    "Amy Adams",
+    "Chris Pratt",
+    "Olivia Wilde"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a6b"
+  },
+  "nombre_pelicula": "Spotlight",
+  "genero_principal": "Biografía",
+  "puntaje_IMDB": 8.1,
+  "actores": [
+    "Mark Ruffalo",
+    "Michael Keaton",
+    "Rachel McAdams",
+    "Liev Schreiber",
+    "John Slattery",
+    "Brian d'Arcy James"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a6c"
+  },
+  "nombre_pelicula": "The Wrestler",
+  "genero_principal": "Drama",
+  "puntaje_IMDB": 7.9,
+  "actores": [
+    "Mickey Rourke",
+    "Marisa Tomei",
+    "Evan Rachel Wood",
+    "Mark Margolis",
+    "Todd Barry",
+    "Ernest Miller"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a6d"
+  },
+  "nombre_pelicula": "The Shape of Water",
+  "genero_principal": "Drama",
+  "puntaje_IMDB": 7.3,
+  "actores": [
+    "Sally Hawkins",
+    "Michael Shannon",
+    "Richard Jenkins",
+    "Doug Jones",
+    "Octavia Spencer",
+    "Michael Stuhlbarg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a6e"
+  },
+  "nombre_pelicula": "Babel",
+  "genero_principal": "Drama",
+  "puntaje_IMDB": 7.4,
+  "actores": [
+    "Brad Pitt",
+    "Cate Blanchett",
+    "Gael García Bernal",
+    "Kôji Yakusho",
+    "Adriana Barraza",
+    "Rinko Kikuchi"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2135181c929a43f198a6f"
+  },
+  "nombre_pelicula": "The Descendants",
+  "genero_principal": "Drama",
+  "puntaje_IMDB": 7.3,
+  "actores": [
+    "George Clooney",
+    "Shailene Woodley",
+    "Amara Miller",
+    "Nick Krause",
+    "Beau Bridges",
+    "Robert Forster"
+  ]
+}]

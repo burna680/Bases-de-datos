@@ -1,0 +1,245 @@
+[{
+  "_id": {
+    "$oid": "65b7bdcfdb325e3edbf4d80c"
+  },
+  "post_id": "1928500576325104344819840",
+  "user_id": 2401740,
+  "user_name": "Lionel Messi",
+  "picture": "3f2103ab01a20299ee0.jpg",
+  "texto": "Buen d´ıa!",
+  "tags": [
+    "futbol",
+    "copa",
+    "qatar2022"
+  ],
+  "likes": [
+    "jorge",
+    "celia"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65b7bdcfdb325e3edbf4d80d"
+  },
+  "post_id": "1928500576325104344819841",
+  "user_id": 2401741,
+  "user_name": "Cristiano Ronaldo",
+  "picture": "3f2103ab01a20299ee1.jpg",
+  "texto": "¡Partido emocionante!",
+  "tags": [
+    "futbol"
+  ],
+  "likes": [
+    "jorge"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65b7bdcfdb325e3edbf4d80e"
+  },
+  "post_id": "1928500576325104344819842",
+  "user_id": 2401742,
+  "user_name": "Neymar Jr.",
+  "picture": "3f2103ab01a20299ee2.jpg",
+  "texto": "¡Golazo!",
+  "tags": [
+    "futbol",
+    "brasil"
+  ],
+  "likes": [
+    "celia"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65b7bdcfdb325e3edbf4d80f"
+  },
+  "post_id": "1928500576325104344819843",
+  "user_id": 2401740,
+  "user_name": "Lionel Messi",
+  "picture": "3f2103ab01a20299ee3.jpg",
+  "texto": "Entrenamiento matutino",
+  "tags": [
+    "futbol",
+    "entrenamiento"
+  ],
+  "likes": [
+    "jorge"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65b7bdcfdb325e3edbf4d810"
+  },
+  "post_id": "1928500576325104344819844",
+  "user_id": 2401740,
+  "user_name": "Lionel Messi",
+  "picture": "3f2103ab01a20299ee4.jpg",
+  "texto": "¡Gran victoria del equipo hoy!",
+  "tags": [
+    "futbol",
+    "victoria"
+  ],
+  "likes": [
+    "jorge"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65b7bdcfdb325e3edbf4d811"
+  },
+  "post_id": "1928500576325104344819845",
+  "user_id": 2401743,
+  "user_name": "Andrés Iniesta",
+  "picture": "3f2103ab01a20299ee5.jpg",
+  "texto": "Momento de relax después del partido",
+  "tags": [
+    "futbol",
+    "relax"
+  ],
+  "likes": [
+    "celia"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65b7bdcfdb325e3edbf4d812"
+  },
+  "post_id": "1928500576325104344819846",
+  "user_id": 2401740,
+  "user_name": "Lionel Messi",
+  "picture": "3f2103ab01a20299ee6.jpg",
+  "texto": "Preparándome para el próximo desafío",
+  "tags": [
+    "futbol",
+    "preparación"
+  ],
+  "likes": [
+    "celia"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65b7bdcfdb325e3edbf4d813"
+  },
+  "post_id": "1928500576325104344819847",
+  "user_id": 2401744,
+  "user_name": "Diego Maradona",
+  "picture": "3f2103ab01a20299ee7.jpg",
+  "texto": "Siempre en mi corazón, fútbol argentino",
+  "tags": [
+    "futbol",
+    "argentina"
+  ],
+  "likes": [
+    "jorge",
+    "celia"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65b7bdcfdb325e3edbf4d814"
+  },
+  "post_id": "1928500576325104344819848",
+  "user_id": 2401740,
+  "user_name": "Lionel Messi",
+  "picture": "3f2103ab01a20299ee8.jpg",
+  "texto": "Orgulloso de representar a mi país",
+  "tags": [
+    "futbol",
+    "selección",
+    "argentina"
+  ],
+  "likes": [
+    "jorge"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65b7bdcfdb325e3edbf4d815"
+  },
+  "post_id": "1928500576325104344819849",
+  "user_id": 2401745,
+  "user_name": "Zinedine Zidane",
+  "picture": "3f2103ab01a20299ee9.jpg",
+  "texto": "La pasión por el fútbol nunca muere",
+  "tags": [
+    "futbol",
+    "pasión"
+  ],
+  "likes": [
+    "jorge",
+    "celia"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65b7bdcfdb325e3edbf4d816"
+  },
+  "post_id": "1928500576325104344819850",
+  "user_id": 2401740,
+  "user_name": "Lionel Messi",
+  "picture": "3f2103ab01a20299ef0.jpg",
+  "texto": "¡Un gol que quedará en la historia!",
+  "tags": [
+    "futbol",
+    "gol",
+    "historia"
+  ],
+  "likes": [
+    "celia"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65b7bdcfdb325e3edbf4d817"
+  },
+  "post_id": "1928500576325104344819851",
+  "user_id": 2401746,
+  "user_name": "Pele",
+  "picture": "3f2103ab01a20299ef1.jpg",
+  "texto": "Recuerdos inolvidables en el campo",
+  "tags": [
+    "futbol",
+    "recuerdos"
+  ],
+  "likes": [
+    "jorge"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65b7bdcfdb325e3edbf4d818"
+  },
+  "post_id": "1928500576325104344819852",
+  "user_id": 2401740,
+  "user_name": "Lionel Messi",
+  "picture": "3f2103ab01a20299ef2.jpg",
+  "texto": "Compartiendo momentos con mis compañeros de equipo",
+  "tags": [
+    "futbol",
+    "equipo",
+    "compañeros"
+  ],
+  "likes": [
+    "jorge",
+    "celia"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65b7bdcfdb325e3edbf4d819"
+  },
+  "post_id": "1928500576325104344819853",
+  "user_id": 2401747,
+  "user_name": "Ronaldinho",
+  "picture": "3f2103ab01a20299ef3.jpg",
+  "texto": "El fútbol es alegría",
+  "tags": [
+    "futbol",
+    "alegría"
+  ],
+  "likes": [
+    "celia"
+  ]
+}]

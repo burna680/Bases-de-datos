@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "60112d68c2c8eb2fbdcd5b90"
+  },
+  "follower_id": 1001,
+  "followed_id": 91930,
+  "modified_at": {
+    "$date": "2024-02-03T08:00:00.000Z"
+  },
+  "change": 1
+},
+{
+  "_id": {
+    "$oid": "60112d68c2c8eb2fbdcd5b91"
+  },
+  "follower_id": 1002,
+  "followed_id": 91930,
+  "modified_at": {
+    "$date": "2024-02-02T08:00:00.000Z"
+  },
+  "change": 1
+},
+{
+  "_id": {
+    "$oid": "60112d68c2c8eb2fbdcd5b92"
+  },
+  "follower_id": 1003,
+  "followed_id": 91930,
+  "modified_at": {
+    "$date": "2024-02-01T08:00:00.000Z"
+  },
+  "change": -1
+},
+{
+  "_id": {
+    "$oid": "60112d68c2c8eb2fbdcd5b93"
+  },
+  "follower_id": 1004,
+  "followed_id": 91930,
+  "modified_at": {
+    "$date": "2024-02-01T09:00:00.000Z"
+  },
+  "change": 1
+},
+{
+  "_id": {
+    "$oid": "60112d68c2c8eb2fbdcd5b94"
+  },
+  "follower_id": 1005,
+  "followed_id": 91930,
+  "modified_at": {
+    "$date": "2024-02-01T10:00:00.000Z"
+  },
+  "change": -1
+},
+{
+  "_id": {
+    "$oid": "60112d68c2c8eb2fbdcd5b95"
+  },
+  "follower_id": 1006,
+  "followed_id": 91930,
+  "modified_at": {
+    "$date": "2024-02-01T11:00:00.000Z"
+  },
+  "change": 1
+},
+{
+  "_id": {
+    "$oid": "60112d68c2c8eb2fbdcd5b96"
+  },
+  "follower_id": 1007,
+  "followed_id": 2000,
+  "modified_at": {
+    "$date": "2024-02-01T12:00:00.000Z"
+  },
+  "change": 1
+},
+{
+  "_id": {
+    "$oid": "60112d68c2c8eb2fbdcd5b97"
+  },
+  "follower_id": 1008,
+  "followed_id": 2001,
+  "modified_at": {
+    "$date": "2024-02-01T13:00:00.000Z"
+  },
+  "change": -1
+},
+{
+  "_id": {
+    "$oid": "60112d68c2c8eb2fbdcd5b98"
+  },
+  "follower_id": 1009,
+  "followed_id": 2002,
+  "modified_at": {
+    "$date": "2024-02-01T14:00:00.000Z"
+  },
+  "change": 1
+},
+{
+  "_id": {
+    "$oid": "60112d68c2c8eb2fbdcd5b99"
+  },
+  "follower_id": 1010,
+  "followed_id": 2003,
+  "modified_at": {
+    "$date": "2024-02-01T15:00:00.000Z"
+  },
+  "change": -1
+},
+{
+  "_id": {
+    "$oid": "60112d68c2c8eb2fbdcd5b9a"
+  },
+  "follower_id": 1011,
+  "followed_id": 2004,
+  "modified_at": {
+    "$date": "2024-02-01T16:00:00.000Z"
+  },
+  "change": 1
+},
+{
+  "_id": {
+    "$oid": "60112d68c2c8eb2fbdcd5b9b"
+  },
+  "follower_id": 1012,
+  "followed_id": 2005,
+  "modified_at": {
+    "$date": "2024-02-01T17:00:00.000Z"
+  },
+  "change": -1
+},
+{
+  "_id": {
+    "$oid": "60112d68c2c8eb2fbdcd5b9c"
+  },
+  "follower_id": 1013,
+  "followed_id": 2006,
+  "modified_at": {
+    "$date": "2024-02-01T18:00:00.000Z"
+  },
+  "change": 1
+},
+{
+  "_id": {
+    "$oid": "60112d68c2c8eb2fbdcd5b9d"
+  },
+  "follower_id": 1014,
+  "followed_id": 2007,
+  "modified_at": {
+    "$date": "2024-02-01T19:00:00.000Z"
+  },
+  "change": -1
+},
+{
+  "_id": {
+    "$oid": "60112d68c2c8eb2fbdcd5b9e"
+  },
+  "follower_id": 1015,
+  "followed_id": 2008,
+  "modified_at": {
+    "$date": "2024-02-01T20:00:00.000Z"
+  },
+  "change": 1
+},
+{
+  "_id": {
+    "$oid": "60112d68c2c8eb2fbdcd5b9f"
+  },
+  "follower_id": 1016,
+  "followed_id": 2009,
+  "modified_at": {
+    "$date": "2024-02-01T21:00:00.000Z"
+  },
+  "change": -1
+},
+{
+  "_id": {
+    "$oid": "60112d68c2c8eb2fbdcd5ba0"
+  },
+  "follower_id": 1017,
+  "followed_id": 2010,
+  "modified_at": {
+    "$date": "2024-02-01T22:00:00.000Z"
+  },
+  "change": 1
+},
+{
+  "_id": {
+    "$oid": "60112d68c2c8eb2fbdcd5c90"
+  },
+  "follower_id": 1001,
+  "followed_id": 91930,
+  "modified_at": {
+    "$date": "2024-02-03T09:00:00.000Z"
+  },
+  "change": -1
+},
+{
+  "_id": {
+    "$oid": "60112d68c2c8eb3fbdcd5b90"
+  },
+  "follower_id": 1001,
+  "followed_id": 91930,
+  "modified_at": {
+    "$date": "2024-01-03T08:00:00.000Z"
+  },
+  "change": -1
+},
+{
+  "_id": {
+    "$oid": "60112d68d2c8eb2fbdcd5b90"
+  },
+  "follower_id": 1001,
+  "followed_id": 91930,
+  "modified_at": {
+    "$date": "2024-01-02T08:00:00.000Z"
+  },
+  "change": 1
+}]
