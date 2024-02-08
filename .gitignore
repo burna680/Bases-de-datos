@@ -1,6 +1,9 @@
-/Examenes
+/Examenes/Finales/pdf
+/Examenes/Parciales
+/Examenes/Parcialitos
 /Libros
 /Otros
 /Teoricas
-*.pdf
+/Practicas
 *.txt
+*.drawio
